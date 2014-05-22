@@ -1,0 +1,7 @@
+gen/
+bin/
+src/test/
+*.class
+Test.java
+*.txt
+back-data/
